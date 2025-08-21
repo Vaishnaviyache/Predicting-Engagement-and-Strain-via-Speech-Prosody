@@ -37,4 +37,4 @@ The **SEWA dataset** cannot be redistributed. Access must be requested from the 
 
 ## Citation
 Please cite this work as:  
-> [Vaishnavi et al.], (2025). *Predicting Engagement and Strain via Speech Prosody*. GitHub / Zenodo. DOI: [to be added].  
+> [Vaishnavi et al.], (2025). *Predicting Engagement and Strain via Speech Prosody*. GitHub / Zenodo. DOI: [10.5281/zenodo.16918190].  
