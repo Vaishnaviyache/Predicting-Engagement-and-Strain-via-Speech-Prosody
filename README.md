@@ -3,7 +3,7 @@
 # Predicting Engagement and Strain via Speech Prosody
 
 This repository provides Jupyter notebooks and scripts for the paper:  
-**“Predicting affective engagement and mental strain from prosodic speech features (https://doi.org/10.3389/fpsyt.2025.1656292=”**
+**“Predicting affective engagement and mental strain from prosodic speech features (https://doi.org/10.3389/fpsyt.2025.1656292)”**
 
 ---
 
